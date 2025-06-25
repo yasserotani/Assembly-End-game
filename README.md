@@ -17,7 +17,7 @@ This project was originally built while following the Scrimba Learn React course
 
 ## 💻 Live Demo
 
-[🔗 Try it online (coming soon)]([#](https://yasserotani.github.io/Assembly-End-game/))
+[🔗 Try it online (coming soon)](https://yasserotani.github.io/Assembly-End-game/)
 
 ---
 
