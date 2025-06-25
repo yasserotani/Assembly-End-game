@@ -1,8 +1,8 @@
 # 🧠 Assembly: Endgame
+A mini game where the player guesses a word letter by letter.
+The player has a limited number of attempts (based on the number of programming languages) and receives visual feedback for correct and incorrect guesses.
 
-A fun little React word-guessing game I built as part of the [Scrimba Learn React course](https://scrimba.com/learn/learnreact).
-
-In this game, your goal is to guess a randomly chosen programming-related word, letter by letter. But there's a twist: you only have 8 chances — one for every programming language except Assembly. Mess up too many times, and you're forced to code in Assembly forever 😅
+This project was originally built while following the Scrimba Learn React course, with some additional features and refinements added beyond the course content.
 
 ---
 
